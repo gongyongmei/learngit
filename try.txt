@@ -3,3 +3,4 @@ I have to learn git.
 today is 20151125,it is second time learn git command.
 git status
 git checkout filename ----giveup file changes in working directory
+i want learn command diff
