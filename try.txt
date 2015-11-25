@@ -1,0 +1,5 @@
+git is a version control system.
+I have to learn git.
+today is 20151125,it is second time learn git command.
+git status
+git checkout filename ----giveup file changes in working directory
