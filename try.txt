@@ -5,3 +5,5 @@ git status
 git checkout filename ----giveup file changes in working directory
 i want learn command diff
 now i am learning ,不行了英语不会了，我是在学git的工作区，临时工作区，版本库
+回退操作
+回退的操作2
